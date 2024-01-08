@@ -6,7 +6,7 @@
   "scripts": {
     "publish": "vsce publish"
   },
-  "publisher": "Divyanshu",
+  "publisher": "sadhu",
   "author": {
     "name": "Divyanshu Maurya",
     "url": "https://github.com/itzDm",
