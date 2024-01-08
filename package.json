@@ -1,0 +1,59 @@
+{
+  "name": "wave-delight",
+  "displayName": "Wave Delight",
+  "description": "A Dark Theme for Visual Studio Code developed by sadhu",
+  "version": "0.0.1",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "publisher": "Divyanshu",
+  "author": {
+    "name": "Divyanshu Maurya",
+    "url": "https://github.com/itzDm",
+    "email": "divyanshumaurya99@gmail.com"
+  },
+  "icon": "logo.webp",
+  "engines": {
+    "vscode": "^1.7.0"
+  },
+  "galleryBanner": {
+    "color": "#140e1a",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "wave-delight",
+    "wave delight",
+    "wave",
+    "delight",
+    "latest",
+    "latest themes",
+    "latest theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wave Delight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wave-delight-color-theme.json"
+      },
+      {
+        "label": "Wave Delight (italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wave-delight-italic-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itzDM/wave-delight-vs-theme.git"
+  },
+  "__metadata": {
+    "publisherDisplayName": "Divyanshu Maurya"
+  }
+}
