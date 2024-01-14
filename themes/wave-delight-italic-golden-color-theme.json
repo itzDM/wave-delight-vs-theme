@@ -3,7 +3,7 @@
   "colors": {
     "foreground": "#d9af07",
     "focusBorder": "#ee000042",
-    "selection.background": "#06092a",
+    "selection.background": "#09105c",
     "scrollbar.shadow": "#ff0a0a91",
     "activityBar.foreground": "#ffcc00",
     "activityBar.background": "#030b1f",
@@ -102,7 +102,7 @@
     "editor.foldBackground": "#264f784d",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
-    "editorError.foreground": "#f48771",
+    "editorError.foreground": "#e32600",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
     "editorWarning.foreground": "#cca700",
@@ -193,7 +193,7 @@
     "peekViewResult.fileForeground": "#ffffff",
     "peekViewResult.lineForeground": "#bbbbbb",
     "peekViewResult.matchHighlightBackground": "#ea5c004d",
-    "peekViewResult.selectionBackground": "#3399ff33",
+    "peekViewResult.selectionBackground": "#09105c",
     "peekViewResult.selectionForeground": "#ffffff",
     "peekViewTitle.background": "#1e1e1e",
     "peekViewTitleDescription.foreground": "#ccccccb3",
@@ -257,7 +257,7 @@
     "gitDecoration.untrackedResourceForeground": "#d1e424cf",
     "gitDecoration.ignoredResourceForeground": "#4d4d4d",
     "gitDecoration.conflictingResourceForeground": "#a277ff",
-    "textLink.activeForeground": "#0b104b9c"
+    "textLink.activeForeground": "#8bff00"
   },
   "tokenColors": [
     {
