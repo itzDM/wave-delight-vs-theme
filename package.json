@@ -12,7 +12,7 @@
     "url": "https://github.com/itzDm",
     "email": "divyanshumaurya99@gmail.com"
   },
-  "icon": "logo.webp",
+  "icon": "images/logo.webp",
   "engines": {
     "vscode": "^1.7.0"
   },

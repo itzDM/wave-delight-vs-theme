@@ -9,15 +9,15 @@
 
 ### Screenshots ;)
 
-- ![view](./images/full.png)
+- ![view](images/full.png)
 
 ### css
 
-- ![css](./images/css.png)
+- ![css](images/css.png)
 
 ### Js code
 
-- ![code](./images/code.png)
+- ![code](images/code.png)
 
 Notes:
 
