@@ -2,10 +2,11 @@
 
 ### About Theme
 
-#### this theme have two color theme
+#### this theme have three color theme
 
-- Wave Delight Golden
-- Wave Delight Golden (italic)
+- WD Golden
+- WD Golden (italic)
+- WD Dark Modern
 
 ### Screenshots ;)
 
