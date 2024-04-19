@@ -9,4 +9,4 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- New Theme WD Dark Modern
+- New Theme WD Dark Cool

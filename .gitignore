@@ -1,5 +1,1 @@
-/*.vsix
-.vscode
-.vscodeignore
-.gitignore
-LICENSE.md
+.vscode/
