@@ -2,11 +2,12 @@
 
 ### About Theme
 
-#### this theme have three color theme
+#### this theme have Four color theme
 
 - WD Golden
 - WD Golden (italic)
 - WD Dark Modern
+- WD Dark Cool
 
 ### Screenshots ;)
 
