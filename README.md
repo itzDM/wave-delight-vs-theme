@@ -1,6 +1,6 @@
 ### About Theme
 
-#### this theme have Four color theme
+#### this theme have Three color theme
 
 - WD Light
 - WD Dark Modern
