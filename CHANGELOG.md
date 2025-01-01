@@ -7,6 +7,10 @@ All notable changes to this project will be documented in this file.
 - Color Improve
 - And Many More Theme
 
+### (v0.0.6)New
+
+- New Theme WD Light
+
 ### (v0.0.5)Changed
 
 - New Theme WD Dark Cool color modification

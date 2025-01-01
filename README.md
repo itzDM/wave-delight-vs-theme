@@ -1,25 +1,10 @@
-### Developed By Divyanshu
-
 ### About Theme
 
 #### this theme have Four color theme
 
-- WD Golden
-- WD Golden (italic)
+- WD Light
 - WD Dark Modern
 - WD Dark Cool
-
-### Screenshots ;)
-
-- ![view](images/full.png)
-
-### css
-
-- ![css](images/css.png)
-
-### Js code
-
-- ![code](images/code.png)
 
 Notes:
 

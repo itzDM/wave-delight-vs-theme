@@ -2,7 +2,7 @@
   "name": "wave-delight",
   "displayName": "Wave Delight",
   "description": "A Dark Theme for Visual Studio Code ",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "scripts": {
     "publish": "vsce publish"
   },
@@ -38,14 +38,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "WD Golden (italic)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/wave-delight-italic-golden-color-theme.json"
-      },
-      {
-        "label": "WD Golden",
-        "uiTheme": "vs-dark",
-        "path": "./themes/wave-delight-golden-color-theme.json"
+        "label": "WD Light ",
+        "uiTheme": "hc-light",
+        "path": "./themes/wave-delight-vs-light-color-theme.json"
       },
       {
         "label": "WD Dark Modern",
